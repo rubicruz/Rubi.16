@@ -1,0 +1,4 @@
+C:\Lab5\Rubi1347424\Source\Repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csprojAssemblyReference.cache
+C:\Lab5\Rubi1347424\Source\Repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Lab5\Rubi1347424\Source\Repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfo.cs
+C:\Lab5\Rubi1347424\Source\Repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.CoreCompileInputs.cache
